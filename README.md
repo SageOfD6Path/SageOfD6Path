@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SageOfD6Path/SageOfD6Path/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/SageOfD6Path/SageOfD6Path/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
