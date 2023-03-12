@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Anirban and I'm a hobbyist developer from India.</p>
+<p align="center">My name is Anirban and I'm a hobbyist developer from India.</p>
 
 ###
 
